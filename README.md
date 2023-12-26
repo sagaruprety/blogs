@@ -1,2 +1,2 @@
-# superteams
-All files related to superteams work
+# Blogs
+All code related to blogs
